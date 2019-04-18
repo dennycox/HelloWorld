@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Shrek is kewl!");
+		System.out.println("Hello universe!");
 	}
 
 }
